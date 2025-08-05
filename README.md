@@ -1,6 +1,6 @@
 # Janhavi Shelke
 
-Hi, I’m **Janhavi Shelke** — an MBBS student at **GMC Akola (2024 batch)**, blending medicine, tech, and creativity to learn smarter and help others do the same.
+Hi, I’m **Janhavi Shelke** — an MBBS student , i love blending medicine, tech, and creativity to learn smarter and help others do the same.
 
 ---
 ## 📊 GitHub Stats
