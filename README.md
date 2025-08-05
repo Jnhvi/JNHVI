@@ -44,5 +44,7 @@ Hi, I’m **Janhavi Shelke** — an MBBS student at **GMC Akola (2024 batch)**, 
 - Making medicine less stressful for myself and others
 
 ---
+![snake gif](https://github.com/jnhvi/jnhvi/blob/output/github-contribution-grid-snake.svg)
+
 
 _“Study smart, not just hard. Build what you wish existed.”_
