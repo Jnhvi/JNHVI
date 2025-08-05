@@ -9,8 +9,6 @@ Hi, I’m **Janhavi Shelke** — an MBBS student at **GMC Akola (2024 batch)**, 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnhvi&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jnhvi&theme=default)
-
 ## 🔬 About Me
 
 - 🧠 **MBBS First-Year Student**  
