@@ -9,17 +9,6 @@ Hi, I’m **Janhavi Shelke** — an MBBS student at **GMC Akola (2024 batch)**, 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jnhvi&layout=compact)
 
-## 🔬 About Me
-
-- 🧠 **MBBS First-Year Student**  
-  Deeply exploring **Anatomy**, **Physiology**, and **Biochemistry** with a hands-on and concept-focused approach.
-
-- 💡 **Tech-Loving Medical Nerd**  
-  I enjoy building simple AI-powered tools that make medical learning more effective and accessible.
-
-- 🎨 **Creative Learner**  
-  I believe in visual, interactive, and experimental learning over rote memorization. Sometimes I even turn my ideas into small web apps.
-
 ---
 
 ## 📌 Interests
