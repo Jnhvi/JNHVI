@@ -3,6 +3,11 @@
 Hi, I’m **Janhavi Shelke** — an MBBS student at **GMC Akola (2024 batch)**, blending medicine, tech, and creativity to learn smarter and help others do the same.
 
 ---
+## 📊 GitHub Stats
+
+![Janhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jnhvi&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
 
 ## 🔬 About Me
 
