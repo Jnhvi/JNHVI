@@ -11,22 +11,15 @@ Hi, I’m **Janhavi Shelke** , an MBBS student , i love blending medicine, tech,
 
 ---
 
-## 📌 Interests
+## >>Interests
 
-- 🧬 Neuroscience & Mental Health  
-- 🤖 Medical AI & Diagnostic Tools  
-- 🛠️ Building educational micro-projects  
-- ✍️ Blogging medical concepts in simple terms (soon!)
-
----
-
-## 🛠 Tech Stack (beginner-friendly!)
-
-`HTML` | `CSS` | `JavaScript` | `GitHub Pages` | `OpenAI API`
+- Neuroscience & Mental Health  
+- Medical AI & Diagnostic Tools  
+- Building educational micro-projects  
 
 ---
 
-## 🌱 Currently Working On
+## >>Currently Working On
 
 - Building my own study assistant for MBBS using **OpenAI’s API**
 - Learning to integrate **chat-based AI into educational sites**
@@ -36,4 +29,4 @@ Hi, I’m **Janhavi Shelke** , an MBBS student , i love blending medicine, tech,
 ![snake gif](https://github.com/jnhvi/jnhvi/blob/output/github-contribution-grid-snake.svg)
 
 
-_“Study smart, not just hard. Build what you wish existed.”_
+_Build what you wish existed.”_
