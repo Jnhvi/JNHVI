@@ -29,4 +29,4 @@ Hi, I’m **Janhavi Shelke** , an MBBS student , i love blending medicine, tech,
 ![snake gif](https://github.com/jnhvi/jnhvi/blob/output/github-contribution-grid-snake.svg)
 
 
-_Build what you wish existed.
+_Build what you wish existed._
