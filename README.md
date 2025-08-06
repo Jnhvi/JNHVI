@@ -21,7 +21,7 @@ Hi, I’m **Janhavi Shelke** , an MBBS student , i love blending medicine, tech,
 
 ## >>Currently Working On
 
-- Building my own study assistant for MBBS using **OpenAI’s API**
+- Building my own study assistant using **OpenAI’s API**
 - Learning to integrate **chat-based AI into educational sites**
 - Making medicine less stressful for myself and others
 
